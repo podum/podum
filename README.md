@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @podum
-- 👀 I’m interested in web experience
-- 🌱 I’m currently learning seo through metadata
-- 💞️ I’m looking to collaborate on ad copy generation
+- 👀 I’m interested in fashion
+- 🌱 I’m currently learning supply chain for clothing distribution
+- 💞️ I’m looking to collaborate on building reusable libraries
 - 📫 How to reach me: patrick.odum1@gmail.com
 
 <!---
